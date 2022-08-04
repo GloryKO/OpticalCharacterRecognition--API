@@ -1,0 +1,11 @@
+click==7.1.2
+fastapi==0.61.1
+h11==0.13.0
+packaging==21.3
+Pillow==9.2.0
+pydantic==1.9.1
+pyparsing==3.0.9
+pytesseract==0.3.9
+starlette==0.13.6
+typing_extensions==4.3.0
+uvicorn==0.12.2
